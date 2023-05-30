@@ -1,1 +1,5 @@
 .DS_Store
+__pycache__/
+err-log.out
+nohup.out
+std-log.out
